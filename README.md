@@ -4,10 +4,10 @@
 ![WordPress][wordpress-shield]
 ![PHP][php-shield]
 
-<p align="center">:bangbang: Documentation available to access at: https://nitaicharan.github.io/Cursoemvideo-CWPM140H :bangbang:</p>
+<p align="center">:bangbang: Documentation available to access at: https://nitaicharan.github.io/Cursoemvideo-CWPM140H1 :bangbang:</p>
 
-<!--[![](Cursoemvideo-CWPM140H.png)](https://nitaicharan.github.io/Cursoemvideo-CWPM140H/)-->
-<a href="https://nitaicharan.github.io/Cursoemvideo-CWPM140H">
+<!--[![](Cursoemvideo-CWPM140H1.png)](https://nitaicharan.github.io/Cursoemvideo-CWPM140H1/)-->
+<a href="https://nitaicharan.github.io/Cursoemvideo-CWPM140H1">
   <p align="center">
     <img style="height: 100px" src="PREVIEW.png">
   </p>
@@ -22,7 +22,7 @@ This project was part of the Curso em Vídeo course "WordPress Módulo 1 - 40 Ho
 - [Certificate][certificate-url]
 
 ### Certificate
-This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [WordPress Módulo 1 - 40 Horas][course-url] on ??/??/???? as taught by [Gustavo Guanabara][instructor-url] on Curso em Vídeo. The certificate indicates the entire course was completed as validated by the student.
+This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [WordPress Módulo 1 - 40 Horas][course-url] on 21/03/2021 as taught by [Gustavo Guanabara][instructor-url] on Curso em Vídeo. The certificate indicates the entire course was completed as validated by the student.
 
 <p align="center">
   <img src="CERTIFICATE.jpg">
@@ -37,34 +37,6 @@ This certificate above verifies that [Nitai Charan][udemy-url] successfully comp
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-## Development GitHub Pages
-
-<!-- http://localhost:<port>/swagger-ui.html -->
-
-<!-- pretty-swag -i doc/api-docs.json -o doc/index.html -->
-<!-- swagger-codegen-cli generate -i http://localhost:<port>/v3/api-docs -o doc/ -l html2 -->
-<!-- bootprint openapi http://localhost:8080/v3/api-docs target/ -->
-
-```
-Sava json http://localhost:<port>/v3/api-docs --> /doc
-
-spectacle doc/api-docs.json  -t doc/
-
-git add -A
-git commit -m <titule> <message>
-git push origin <branch>
-git subtree push --prefix doc/ origin gh-pages
-git push origin `git subtree split --prefix doc master`:gh-pages --force
-```
-
-## Deploy application
-
-```
-- Get environment variables on https://dashboard.heroku.com/apps/Cursoemvideo-CWPM140H/settings
-- Set variables on project-enviroments.env file
-
-docker-compose up --detach
-```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://markdownguide.org/basic-syntax/#reference-style-links -->
@@ -73,9 +45,9 @@ docker-compose up --detach
 <!-- https://markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- ALIES README -->
-[course-url]: https://www.cursoemvideo.com/course/wordpress-2019-profissional-com-gutenberg/
-[instructor-url]: https://www.cursoemvideo.com/sobre/
-[certificate-url]: #
+[course-url]: https://cursoemvideo.com/course/wordpress-2019-profissional-com-gutenberg/
+[instructor-url]: https://cursoemvideo.com/sobre/
+[certificate-url]: https://cursoemvideo.com/validacao-de-certificado/?codigo=8824-9D84-5
 
 <!-- CONTACT SHIELDS -->
 
